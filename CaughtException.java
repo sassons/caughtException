@@ -1,4 +1,4 @@
-public class caughtException 
+public class CaughtException 
 {
 	public static void main(String[] args) throws Exception
 	{
