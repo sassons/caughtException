@@ -2,8 +2,9 @@ public class CaughtException
 {
 	public static void main(String[] args) throws Exception
 	{
+		Thread.sleep(1000 * 30);
 		test();
-		Thread.sleep(1000 * 60);
+		Thread.sleep(1000 * 30);
 	}
 	
 	public static void test() throws Exception
